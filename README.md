@@ -1,5 +1,4 @@
-[openapi (1).yaml](https://github.com/user-attachments/files/29166243/openapi.1.yaml)
-# payment-api-gateway[PaymentAPI-README.md](https://github.com/user-attachments/files/29166248/PaymentAPI-README.md)# PaymentAPI — REST API with API Gateway & Lambda
+# PaymentAPI — REST API with API Gateway & Lambda
 
 A public, serverless REST API built on Amazon API Gateway and AWS Lambda. Accepts payment notification payloads, validates the amount, and returns a structured JSON response — fully callable from anywhere on the internet. Built as part of the AWS Cloud Accelerator — Week 7, Day 2.
 
